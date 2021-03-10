@@ -9,7 +9,7 @@
 * F1 score on Test set: 0.78
 
 ### Files in this repository:
-OnlineEducationLeadScoring_EDA.ipynb - Exploratory Data Analysis Notebook
-OnlineEducationLeadScoring_Modeling.ipynb - Modeling Notebook
-OnlineEducationLeadScoring_Presentation.pdf - Project Presentation 
-Leads.xlsx - Data File
+* OnlineEducationLeadScoring_EDA.ipynb - Exploratory Data Analysis Notebook
+* OnlineEducationLeadScoring_Modeling.ipynb - Modeling Notebook
+* OnlineEducationLeadScoring_Presentation.pdf - Project Presentation 
+* Leads.xlsx - Data File
